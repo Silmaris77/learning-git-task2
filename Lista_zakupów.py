@@ -11,3 +11,5 @@ for sklep, produkty in lista_zakupow.items():
 print(f"W sumie kupuję {liczba_produktow} produktów.")
 print("zmiana pierwsza")
 print("zmiana druga")
+
+print("Pozdrowienia z drugiej gałęzi")
