@@ -9,3 +9,4 @@ for sklep, produkty in lista_zakupow.items():
     print (f"Idę do {sklep.capitalize()}, kupuję tu następujące rzeczy: {[i.capitalize() for i in produkty]}.")
     liczba_produktow += len(produkty)
 print(f"W sumie kupuję {liczba_produktow} produktów.")
+print("zmiana pierwsza")
