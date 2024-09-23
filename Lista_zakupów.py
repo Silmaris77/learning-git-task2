@@ -10,3 +10,4 @@ for sklep, produkty in lista_zakupow.items():
     liczba_produktow += len(produkty)
 print(f"W sumie kupuję {liczba_produktow} produktów.")
 print("zmiana pierwsza")
+print("zmiana druga")
